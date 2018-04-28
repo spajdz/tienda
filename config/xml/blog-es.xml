@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>RGPD: las soluciones de PrestaShop ante las nuevas exigencias del reglamento</title>
+    <link>https://www.prestashop.com/es/blog/las-soluciones-de-prestashop-para-responder-a-las-nuevas-exigencias-de-proteccion-de-datos</link>
+    <description>¿Qué es el RGPD?</description>
+     <pubDate>Thu, 26 Apr 2018 15:04:26 +0200</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/las-soluciones-de-prestashop-para-responder-a-las-nuevas-exigencias-de-proteccion-de-datos</guid>
+  </item>
+  <item>
+    <title>¿Cómo crear una página &amp;quot;Sobre nosotros&amp;quot; que enamore a tus usuarios?</title>
+    <link>https://www.prestashop.com/es/blog/seis-sencillas-sugerencias-para-tu-pagina-sobre-nosotros</link>
+    <description>¿Sabías que la sección “Sobre nosotros” o “quiénes somos” es una de las páginas más visitadas en la mayoría de los eCommerce?</description>
+     <pubDate>Wed, 25 Apr 2018 08:44:57 +0200</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/seis-sencillas-sugerencias-para-tu-pagina-sobre-nosotros</guid>
+  </item>
+  <item>
+    <title>¿Cómo crear una tienda en &amp;quot;Facebook Shopping&amp;quot; que te ayude a potenciar tus ventas?</title>
+    <link>https://www.prestashop.com/es/blog/facebook-shopping</link>
+    <description>¿Aún no conoces las ventajas de usar &quot;Facebook Shopping&quot; dentro de la Fan Page de tu tienda online?</description>
+     <pubDate>Mon, 23 Apr 2018 10:07:55 +0200</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/facebook-shopping</guid>
+  </item>
+  <item>
+    <title>7 Mejores plantillas para una tienda de moda online en PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/plantillas-tienda-de-moda-online</link>
+    <description>¿Tienes una tienda de moda online en PrestaShop y quieres dar un salto de calidad con tu propio sitio web?</description>
+     <pubDate>Wed, 18 Apr 2018 19:25:02 +0200</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/plantillas-tienda-de-moda-online</guid>
+  </item>
+  <item>
+    <title>¿Qué es un certificado SSL y cómo instalarlo en tu tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-certificado-ssl</link>
+    <description>
+¿Sabías que no tener activo un certificado SSL en tu tienda PrestaShop puede estar perjudicando el porcentaje de conversión y el SEO de tu eCommerce?</description>
+     <pubDate>Tue, 17 Apr 2018 08:47:38 +0200</pubDate>
+ <dc:creator>Antonio Torres</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-certificado-ssl</guid>
+  </item>
+  <item>
+    <title>¿Qué son los chatbots y cómo pueden ayudarte en la atención al cliente de tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-chatbot</link>
+    <description>¿Aún no has experimentado las ventajas de tener un chatbot para atender a los usuarios de tu tienda online?</description>
+     <pubDate>Mon, 16 Apr 2018 09:38:02 +0200</pubDate>
+ <dc:creator>María Martín Parrilla</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-chatbot</guid>
+  </item>
+  <item>
+    <title>¿Qué es el Marketing emocional y cómo aplicarlo en tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-marketing-emocional</link>
+    <description>¿Sabías que con la ayuda del &quot;Marketing emocional&quot; podrías entender mejor cuáles son las necesidades reales de los clientes de tu eCommerce?</description>
+     <pubDate>Thu, 12 Apr 2018 12:06:55 +0200</pubDate>
+ <dc:creator>Jose Machado</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-marketing-emocional</guid>
+  </item>
+  <item>
+    <title>¿Qué son los enlaces rotos, cómo encontrarlos y darle solución?</title>
+    <link>https://www.prestashop.com/es/blog/enlaces-rotos</link>
+    <description>¿Sabías que la existencia de enlaces rotos en tu web podrían estar afectando negativamente a factores tan importantes como la experiencia de usuario y el SEO?</description>
+     <pubDate>Tue, 10 Apr 2018 16:47:42 +0200</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/enlaces-rotos</guid>
+  </item>
+  <item>
+    <title>¿Cómo mejorar la experiencia de usuario móvil de los clientes de tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/mejorar-experiencia-usuario-movil</link>
+    <description>La experiencia de usuario móvil o en el ámbito &quot;mobile&quot; es un factor que, en el sector del eCommerce, cada vez está cobrando mayor importancia.</description>
+     <pubDate>Mon, 09 Apr 2018 11:03:59 +0200</pubDate>
+ <dc:creator>paypal</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/mejorar-experiencia-usuario-movil</guid>
+  </item>
+  <item>
+    <title>¿Qué es una Multitienda y qué ventajas tiene crear una en PrestaShop?</title>
+    <link>https://www.prestashop.com/es/blog/nueva-funcionalidad-la-multitienda</link>
+    <description>¿Aún no conoces la amplia capacidad de gestión y de personalización en un solo sitio que te da tener una &quot;multitienda&quot;?</description>
+     <pubDate>Fri, 06 Apr 2018 08:02:47 +0200</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/nueva-funcionalidad-la-multitienda</guid>
+  </item>
+  </channel>
+</rss>
